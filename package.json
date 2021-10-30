@@ -5,5 +5,8 @@
   "license": "MIT",
   "dependencies": {
     "@projectsophon/df-plugin-dev-server": "^1.4.0"
+  },
+  "scripts": {
+    "start": "df-plugin-dev-server"
   }
 }
