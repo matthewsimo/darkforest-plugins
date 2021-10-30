@@ -1,0 +1,9 @@
+{
+  "name": "df-plugins",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "@projectsophon/df-plugin-dev-server": "^1.4.0"
+  }
+}
